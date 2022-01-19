@@ -4,7 +4,6 @@
 # Versi 3.6
 # Jangan Ubah Botnyaa Juga!!!!
 ###
-waktu impor, os, acak
 mencoba:
 	os.system("play-audio cp.wav & ")
 kecuali (KeyError,IOError,GIT_DISCOVERY_ACROSS_FILESYSTEM):
